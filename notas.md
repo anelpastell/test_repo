@@ -9,5 +9,6 @@ Luego ábrelo y haz esto:
 - git config --list
 
 Usa CTRL+C para guardar lo que llevas
-
+- escribe exit y te saca de git
+- abre tus carpetas y copia el lugar donde quieres que esté tu git
 
