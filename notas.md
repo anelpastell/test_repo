@@ -48,6 +48,12 @@ En github crea un nuevo archivo, busca las letritas de colores chiquitas y haz u
 
 A ver, la carpeta que habías borrado de tu local, restáurala, el profe hizo algo raro, ve a la papelera y restaurala, ahora escribe
 
-- cd Repositorio -> o el nombre que le habías puesto desde un inicio, así debería salir que funcionó
-luego escribe:
+- cd "C:\Users\V303_16\Desktop\Repositorio"
+- git clone C:\Users\V303_16\Desktop\Repositorio
 - git pull -> con eso debería funcionar
+
+### TAREA PARA EL LUNES
+
+Crear un repositorio de github, el oficial para el semestre, hazlo en el servidor
+- copia la URL de tu repositorio y pégalo en el repositorio del profe, se llama repositorios.txt
+  
